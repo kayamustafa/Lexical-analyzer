@@ -1,6 +1,6 @@
 # Lexical-analyzer
 
-Lexical Analyzer Spelling for BigAdd Language.
+Lexical Analyzer for BigAdd Language.
 İnformation about language is in the BiggAddLang.docx file.
 
 ## How does it work?
